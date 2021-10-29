@@ -14,3 +14,4 @@
 - [discord.js](https://discordjs.guide/#before-you-begin) <code>npm i discord.js</code>
 - [pretty-ms](https://www.npmjs.com/package/pretty-ms) <code>npm i pretty-ms</code>
 - [node-fetch](https://www.npmjs.com/package/node-fetch) <code>npm i node-fetch</code>
+- [nodemon](https://www.npmjs.com/package/nodemon) <code>npm i nodemon</code>
