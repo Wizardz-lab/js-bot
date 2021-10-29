@@ -1,4 +1,5 @@
-  # Discord JS bot 
+  <img src="./images/discordjs.png" alt="discord-logo" width="100px" height="99px"></img>
+  # Discord JS bot
   - By MxKay_.#2551
 
 # Includes | 📜
