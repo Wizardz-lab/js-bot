@@ -6,7 +6,7 @@ const client = new Discord.Client({intents: [
     "GUILD_MESSAGES"
 ]});
 client.on('ready', () => {
-    console.log("The bot is online!")
+    console.log(`${client.user.username} is online!`)
 });
 
 const commands = new Discord.Collection();
