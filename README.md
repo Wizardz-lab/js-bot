@@ -16,3 +16,10 @@
 - [node-fetch](https://www.npmjs.com/package/node-fetch) <code>npm i node-fetch</code>
 - [nodemon](https://www.npmjs.com/package/nodemon) <code>npm i nodemon</code>
 - [fs](https://www.npmjs.com/package/fs) <code>Manually downloaded in VSC</code>
+
+# Work so far..
+- __made a command handler__
+- __made fun and moderation commands__
+- __added: 8ball, ban and ping.js__
+- __currently working on more commands__
+- __currently making a custom class command witch can be used as a export function__
