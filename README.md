@@ -13,7 +13,7 @@
 - [quick.db](https://quickdb.js.org/) <code>npm i quick.db</code>
 - [discord.js](https://discordjs.guide/#before-you-begin) <code>npm i discord.js</code>
 - [pretty-ms](https://www.npmjs.com/package/pretty-ms) <code>npm i pretty-ms</code>
-- [node-fetch](https://www.npmjs.com/package/node-fetch) <code>npm i node-fetch</code>
+- [axios](https://axios-http.com/docs/intro) <code>npm i axios</code>
 - [nodemon](https://www.npmjs.com/package/nodemon) <code>npm i nodemon</code>
 - [fs](https://www.npmjs.com/package/fs) <code>Manually downloaded in VSC</code>
 
